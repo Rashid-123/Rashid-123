@@ -1,53 +1,38 @@
+# Hi there! 👋 I'm Rashid , a full-stack web developer
+## 🚀 Tech Stack
 
-### Hi there, I'm Shadan Rashid! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### Frontend:
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-🚀 Full-Stack Developer| AI Innovator  
-💻 Building scalable web apps with **MERN | Next.js | TypeScript**  
-📡 Exploring ** AI & Cloud Technologies**  
+### Backend:
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+- ![REST API](https://img.shields.io/badge/-RESTful%20APIs-FF6C37?style=flat-square&logo=api&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+- ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
+### DevOps & Cloud:
+- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### Other Technologies:
+- ![WebSockets](https://img.shields.io/badge/-WebSockets-000000?style=flat-square&logo=socketdotio&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ---
 
-### 🔥 About Me
-*
+## 📌 Some of My Good Works
+
+#### 1. [Nari](https://nari-frontend.onrender.com) - [GitHub Repo](https://github.com/Rashid-123/Nari) -  A women's safety platform with alert messages and safety tips provided by a chatbot using OpenAI.
+#### 2. [Word Wise](https://word-wise-psi.vercel.app/) - [GitHub Repo](https://github.com/Rashid-123/wordwise) - A blogging website integrated with Redis for fast caching and AWS S3 for secure media storage.
+#### 3. [Quick-Chat](https://quick-chat-0wvx.onrender.com) - [GitHub Repo](https://github.com/Rashid-123/Quick_chat) -  A real-time chat application powered by Apache Kafka for seamless communication.
 
 ---
-
-### 🚀 Tech Stack
-
-#### Frontend  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-
-#### Backend  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
-
- 
-
-#### DevOps & Cloud  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-
-#### Other Tech  
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)  ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)  ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=MongoDB&logoColor=white)  
-
----
-
-### 🏆 Projects & Contributions
-🚀 **[Foodies](https://github.com/yourrepo)** – A Next.js-based food blogging platform  
-📝 **[AI Chatbot](https://github.com/yourrepo)** – AI-powered chatbot using OpenAI + MERN  
-📡 **[WebSockets App](https://github.com/yourrepo)** – Real-time chat app using Socket.io  
-
-🔗 **More Projects:** [GitHub Profile](https://github.com/yourgithub)
-
----
-
 ### 📊 GitHub Stats
-![Shadan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rashid-123&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashid-123&layout=compact&theme=radical)
 
----
+## 📫 Connect with Me
 
-### 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-[![Dev.to](https://img.shields.io/badge/-Dev.to-000000?style=flat&logo=dev.to&logoColor=white)](https://dev.to/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/shadan-rashid/)) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/rashid-123) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shadanrashid786@gmail.com)
+
+
+💡 Always open to collaboration and new opportunities! Let's build something amazing together. 🚀
 
 ✨ Keep Innovating & Keep Coding! 🚀
