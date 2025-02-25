@@ -1,4 +1,6 @@
-# Hi there! 👋 I'm Rashid , a full-stack web developer
+<p align="center">
+  <b><h1>Hi there! 👋 I'm Rashid,</h1></b>
+</p>
 
 ⚡ Fun fact : Equal is Not Always Equal in Javascript.🤣
 
