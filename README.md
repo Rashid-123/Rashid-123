@@ -1,4 +1,6 @@
 # Hi there! 👋 I'm Rashid , a full-stack web developer
+
+## ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
 ## 🚀 Tech Stack
 
 ### Frontend:
