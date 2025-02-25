@@ -1,11 +1,19 @@
 <div align="center">
 
-## Hi there 👋, Welcome to my Github page!
+# Hi there 👋, Welcome to my Github page!
 
 </div>
 
+<p align="center">
+  <img src="https://github.com/Rashid-123/Rashid-123/blob/main/hello_world.jpg?raw=true" width="800px">
+</p>
 
-⚡ Fun fact : Equal is Not Always Equal in Javascript.🤣
+<div align="center">
+ 
+###   🤣 Fun fact : Equal is Not Always Equal in Javascript.🤣
+
+</div>
+
 
 ----
 
