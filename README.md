@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi there, I’m Shadan Rashid  
-**A Passionate Full-Stack Software Developer**
+
 
 <img src="https://github.com/Rashid-123/Rashid-123/blob/main/hello_world.jpg?raw=true" width="800px" alt="Welcome Banner" />
 
