@@ -46,14 +46,18 @@
 
 ## 🚀 Featured Projects
 
+### 🔹 [Next_Step](https://next-step-iota-liard.vercel.app/) — [GitHub Repo](https://github.com/Rashid-123/Next_Step)
+> Built an AI-powered SaaS that recommends LeetCode problems based on users’ solving history
+
+### 🔹 [Referral_Ai](https://referal-sable.vercel.app/) — [GitHub Repo](https://github.com/Rashid-123/Referal)
+> MVP of a referral platform for businesses leveraging the power of AI.
+
 ### 🔹 [Nari](https://nari-frontend.onrender.com) — [GitHub Repo](https://github.com/Rashid-123/Nari)
 > A women’s safety platform that uses OpenAI to provide safety tips and emergency alerts through a chatbot.
 
 ### 🔹 [Word Wise](https://word-wise-psi.vercel.app/) — [GitHub Repo](https://github.com/Rashid-123/wordwise)
 > A blogging platform with Redis-powered caching and AWS S3 integration for media storage.
 
-### 🔹 [Quick-Chat](https://quick-chat-0wvx.onrender.com) — [GitHub Repo](https://github.com/Rashid-123/Quick_chat)
-> Real-time chat app powered by Apache Kafka and WebSockets for seamless live communication.
 
 ---
 
