@@ -26,6 +26,6 @@
 
 | Repo | Live | Description | Stack |
 |---|---|---|---|
-| [SSHProxy](https://github.com/Rashid-123/SSHProxy) | [Live](https://sshproxy.in) | Browser-based SSH terminal — connect to remote servers without installing any local client. | TypeScript , Next.js , Node.js , Express.js , PostgreSQL , WebSockets , Reids , AWS EC2 , Nginx |
-| [LeetCode Problem Recommender](https://github.com/Rashid-123/Next_Step) | [Live](https://leetai.live/) | AI-powered tool that analyzes your Leetcode solved problems and recommends personalized next steps using semantic search and LLM hints. | Next.js , Node.js , MongoDB , Pinecone , LangChain , OpenAi LLM , Redis , Razorpay |
-| [Beyond-Chat](https://github.com/Rashid-123/Beyond_Chats) | [Live](https://beyond-chats-seven-khaki.vercel.app/) | RAG-based learning platform — chat with uploaded PDFs, auto-generate quizzes, and get reference-backed explanations. | Next.js , Node.js , MongoDB ,  LangChain , Pinecone , OpenAi LLM , AWS (S3) |
+| [SSHProxy](https://github.com/Rashid-123/SSHProxy) | [Live](https://sshproxy.in) | Browser-based SSH terminal — connect to remote servers without installing any local client. | TypeScript , Next.js , Node.js , Express.js , PostgreSQL , WebSockets , Redis , AWS EC2 , Nginx |
+| [Leetcode Problem Recommender](https://github.com/Rashid-123/Next_Step) | [Live](https://leetai.live/) | AI-powered tool that analyzes your Leetcode solved problems and recommends personalized next steps using semantic search and LLM hints. | Next.js , Node.js , MongoDB , Pinecone , LangChain , OpenAi LLM , Redis , Razorpay |
+| [Beyond-Chat](https://github.com/Rashid-123/Beyond_Chats) | [Live](https://beyond-chats-seven-khaki.vercel.app/) | RAG-based learning platform — chat with uploaded PDFs, auto-generate quizzes, and get reference-backed explanations. | Next.js , Node.js , MongoDB ,  LangChain , Pinecone , OpenAi LLM , AWS S3 |
