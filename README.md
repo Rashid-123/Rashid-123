@@ -5,7 +5,7 @@
 <ul>
   <li>I'm <a href="https://rashid-tau.vercel.app/">Shadan Rashid</a>, a Full-Stack Software Developer focused on building AI-powered, production-grade web applications.</li>
   <li>I work across the full stack — from sleek frontend interfaces to scalable backend systems and AI integrations.</li>
-  <li>Currently open to full-time opportunities — reach me at <a href="mailto:shadanrashid786@gmail.com">shadanrashid786@gmail.com</a>.</li>
+  <!-- <li>Currently open to full-time opportunities — reach me at <a href="mailto:shadanrashid786@gmail.com">shadanrashid786@gmail.com</a>.</li> -->
   <li>Checkout my <a href="https://rashid-tau.vercel.app/">portfolio</a> for a detailed look at my work.</li>
   <li>Connect with me on <a href="https://www.linkedin.com/in/shadan-rashid">LinkedIn</a> , <a href="https://x.com/Rashid1505"> X </a> and <a href="https://leetcode.com/rashid_01">LeetCode</a>.</li>
 </ul>
